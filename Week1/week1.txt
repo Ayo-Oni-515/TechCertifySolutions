@@ -1,0 +1,16 @@
+
+Week 1
+Project: Portfolio Website
+you'll have created a personal portfolio website that showcases your skills and projects. The website will be responsive, adapting to various screen sizes, and version-controlled using Git, allowing you to track changes and collaborate with others. This project will not only demonstrate your technical skills but also serve as a valuable asset for your online presence.
+
+Build the foundational structure of your portfolio website using HTML.
+Style your website with CSS to create an aesthetically pleasing design.
+Enhance interactivity and user experience with JavaScript.
+Implement Flexbox to create flexible and responsive layouts for different screen sizes.
+Utilize Grid to create more complex and responsive layouts.
+Ensure overall responsiveness using the principles of Responsive Web Design (RWD).
+Initialize a Git repository for your portfolio project.
+Commit and manage changes using Git.
+Learn basic version control workflows.
+
+For Reference: https://free-css.com/template-categories/portfolio
