@@ -4,7 +4,7 @@ body {
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
     margin: 1% auto;
-    width: 80%;
+    width: 70%;
 }
 
 .clear-fix {
@@ -55,6 +55,7 @@ a:hover {
 img {
   height: auto;
   max-width: 50%;
+  border-radius: 100px;
 }
 
 #intro {
